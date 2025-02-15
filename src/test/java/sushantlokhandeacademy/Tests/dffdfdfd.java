@@ -25,10 +25,6 @@ public class dffdfdfd extends BaseTest {
         }
         System.out.println((driver.getTitle()));
 
-    System.out.println("testing");
-
-    System.out.println("sushant");
-
 
 }
 
