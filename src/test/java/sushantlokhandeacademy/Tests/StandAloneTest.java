@@ -53,13 +53,13 @@ public class StandAloneTest extends BaseTest {
 
         map.put("email", "sushantlokhande@gmail.com");
         map.put("password", "Window@22");
-        map.put("productName", "BANARSI SAREE");
+        map.put("productName", "IPHONE 13 PRO");
 
         HashMap<String, String> map1 = new HashMap<>();
 
         map1.put("email", "kapilsharma1199@gmail.com");
         map1.put("password", "Laptop@22");
-        map1.put("productName", "BANARSI SAREE");
+        map1.put("productName", "IPHONE 13 PRO");
         //  ADIDAS ORIGINAL Banarsi Saree
         return new Object[][]{{map}, {map1}};
 
